@@ -1,29 +1,11 @@
-# v-d3-mini-chart
+# mini-d3-chart-vue-ts
 
-## Project setup
-```
-yarn install
-```
+## if you want bg linear color under line chart just uncomment fill property 
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+## if you want to change chart style, you have to take a look into d3-shape lib or doc and then just change it in the code (AreaChart.vue at areaPath, and linePath computed)
 
-### Compiles and minifies for production
-```
-yarn build
-```
 
-### Run your unit tests
-```
-yarn test:unit
-```
+# have fun nakrub :) 
 
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# medium article will come up later 
+# By Sirawich Voungchuy
